@@ -1,0 +1,19 @@
+{
+  "name": "simpTease",
+  "description": "0x...129",
+  "image": "https://ipfs.io/ipfs/QmNXmCPVYWgGsHU48cPo9w3WkBkkxYztK1K1ij5k3kJ7Ku",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Generated"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Open-AI-dalle-3"
+    }
+  ]
+}
